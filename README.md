@@ -3,7 +3,7 @@
 - 😄 Pronomes: ele/dele
 - 👾 Gosto de aprender coisas novas, séries e games
 
-![snake gif](https://github.com/R4fael-Andrade/R4fael-Andrade/blob/output/github-contribution-grid-snake.gif)
+
 
 ## Skills
 <div style="display: inline_block"><br>
@@ -19,6 +19,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/rafael-andrade-48b4a9293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![snake gif](https://github.com/R4fael-Andrade/R4fael-Andrade/blob/output/github-contribution-grid-snake.gif)
 
 
 
