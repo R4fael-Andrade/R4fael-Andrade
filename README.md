@@ -1,7 +1,9 @@
 # Olá! Eu sou o Rafael Andrade
 - 💻 Atualmente buscando minha primeira vaga na área
 - 😄 Pronomes: ele/dele
+- 👾 Gosto de aprender coisas novas, séries e games
 
+![snake gif](https://github.com/R4fael-Andrade/R4fael-Andrade/blob/output/github-contribution-grid-snake.gif)
 
 ## Skills
 <div style="display: inline_block"><br>
